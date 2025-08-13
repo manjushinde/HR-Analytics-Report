@@ -76,7 +76,7 @@ Data was transformed in **Power Query**:
 ---
 
 ## 📷 Dashboard Preview
-![Uploading Screenshot 2025-08-13 145258.png…]()
+<img width="1293" height="725" alt="Screenshot 2025-08-13 145258" src="https://github.com/user-attachments/assets/1f0b378b-3497-4666-a331-3c3f0899a80a" />
 
 ---
 
