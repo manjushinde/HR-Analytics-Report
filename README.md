@@ -87,8 +87,3 @@ Data was transformed in **Power Query**:
 4. Use filters for department, gender, and year to explore trends.
 
 ---
-
-## 📜 License
-This project is for educational purposes only.
-
----
